@@ -22,5 +22,5 @@ Ben Tristem
 
 ## Lecture list(So Far)
 *BT01 Intro, Notes &, Assets;
-
+*BT02 Game Design Document(GDD);
 ---
