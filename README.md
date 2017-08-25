@@ -25,6 +25,6 @@ Head 2 Head tank battle with simple AI, terrain, and advanced control system in 
   
   ## Lecture list(So Far)
  * BT01 Intro, Notes &, Assets
- 
+ * BT02 Game Design Document(GDD)
  
  ---
